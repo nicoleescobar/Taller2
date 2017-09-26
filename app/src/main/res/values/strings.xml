@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TallerListView</string>
+    <string name="areas">Areas</string>
+    <string name="volumenes">Volumenes</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="lados">Lados</string>
+    <string name="calcular">Calcular</string>
+    <string name="Triangulo" >Triangulo</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="radio">Radio</string>
+    <string name="ladoa">Lados Cortos</string>
+    <string name="ladob">Lados Largos</string>
+</resources>
